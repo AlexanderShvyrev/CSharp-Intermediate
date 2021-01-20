@@ -1,21 +1,17 @@
 ﻿<Properties StartupConfiguration="{06E7C39E-9788-4333-B63B-307E59D87E93}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpIntermediate/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpIntermediate/Human.cs">
     <Files>
-      <File FileName="CSharpIntermediate/Program.cs" Line="31" Column="17" />
+      <File FileName="CSharpIntermediate/Program.cs" Line="7" Column="1" />
+      <File FileName="CSharpIntermediate/Human.cs" Line="9" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
             <Node name="CSharpIntermediate" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Human.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="CSharpIntermediate" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

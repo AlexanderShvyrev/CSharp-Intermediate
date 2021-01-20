@@ -2,7 +2,7 @@
 
 namespace CSharpIntermediate
 {
-    class Program
+    partial class Program
     {
         
         static void Main(string[] args)
@@ -30,6 +30,26 @@ namespace CSharpIntermediate
                 Console.WriteLine(number);
             else
                 Console.WriteLine("Conversion failed");
+
+
+
+
+            var customerOne = new CustomerOne(1);
+            customerOne.Orders.Add(new OrderOne());
+            customerOne.Orders.Add(new OrderOne());
+            customerOne.Orders.Add(new OrderOne());
+            customerOne.Orders.Add(new OrderOne());
+            
+
+            
+
+            Console.WriteLine("Number of customer's orders: " + customerOne.Orders.Count);
+
+
+            var human = new Human();
+            human.SetBirthdate(new DateTime(1987, 1, 1));
+            Console.WriteLine(human.GetBirthday());
+
         }
 
 
