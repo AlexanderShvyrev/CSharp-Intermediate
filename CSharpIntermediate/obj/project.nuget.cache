@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ASSd15Vuhvfbv7Iq5aTC4P2MwYVumUHZjJB1oQgkMw7EI1kYw77Feveg/XS+l/kLbqiEvE/q5YFsXx9MwImfw==",
+  "success": true,
+  "projectFilePath": "/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/CSharpIntermediate.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandershvyrev/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
