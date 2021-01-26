@@ -2,7 +2,7 @@
 
 namespace CSharpIntermediate
 {
-    partial class Program
+    class Program
     {
         
         static void Main(string[] args)
@@ -46,9 +46,18 @@ namespace CSharpIntermediate
             Console.WriteLine("Number of customer's orders: " + customerOne.Orders.Count);
 
 
-            var human = new Human();
-            human.SetBirthdate(new DateTime(1987, 1, 1));
+            var human = new Human("Carl");
+            human.SetBirthday(new DateTime(1987, 1, 1));
             Console.WriteLine(human.GetBirthday());
+
+
+            Console.WriteLine("Age is " + human.Age);
+
+            Console.WriteLine("Name is " + human.Name);
+
+            var cookie = new HttpCookie();
+            cookie["name"] = "Alex";
+            Console.WriteLine("This is cookie name " + cookie["name"]);
 
         }
 

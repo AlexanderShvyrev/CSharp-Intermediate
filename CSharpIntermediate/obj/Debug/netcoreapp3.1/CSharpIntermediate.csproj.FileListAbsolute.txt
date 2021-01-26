@@ -1,24 +1,12 @@
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.deps.json
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.runtimeconfig.json
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.runtimeconfig.dev.json
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.dll
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.pdb
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csprojAssemblyReference.cache
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfoInputs.cache
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfo.cs
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csproj.CoreCompileInputs.cache
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.dll
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.pdb
-/Users/alexandershvyrev/Projects/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.genruntimeconfig.cache
-/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csprojAssemblyReference.cache
-/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfoInputs.cache
-/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfo.cs
-/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csproj.CoreCompileInputs.cache
-/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.dll
-/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.pdb
 /Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.deps.json
 /Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.runtimeconfig.json
 /Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.runtimeconfig.dev.json
 /Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.dll
 /Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.pdb
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfoInputs.cache
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfo.cs
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csproj.CoreCompileInputs.cache
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.dll
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.pdb
 /Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.genruntimeconfig.cache
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/CSharpIntermediate/CSharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csprojAssemblyReference.cache
