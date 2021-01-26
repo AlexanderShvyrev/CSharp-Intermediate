@@ -73,6 +73,14 @@ namespace CSharpIntermediate
 
             installer.Install();
 
+            Font font = new Font();
+            Shape shape = font; //downcasting
+
+            font.Width = 200;
+            shape.Width = 100;
+
+            Console.WriteLine(font.Width);
+
         }
 
 
